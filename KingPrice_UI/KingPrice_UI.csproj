@@ -263,7 +263,7 @@
     <Content Include="Views\Users\AddUser.cshtml" />
     <Content Include="Views\Users\EditUser.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="TextFile.MD" />
+    <Content Include="README.MD" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
